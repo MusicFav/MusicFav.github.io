@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Support
+  url: /support/
+
+#- title: FAQ
+#  url: /faq/
+
+#- title: Test Flight
+#  url: /flight/
