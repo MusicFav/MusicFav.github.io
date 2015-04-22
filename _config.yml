@@ -2,7 +2,7 @@
 
 title: MusicFav
 locale: en_US
-description: A RSS reader that focuses on listening music comfortably.
+description: A Music RSS reader that focuses on listening music comfortably.
 logo: site-logo.png
 search: true
 url: http://musicfav.github.io/
