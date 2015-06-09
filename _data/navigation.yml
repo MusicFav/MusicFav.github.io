@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: Home
-  url: /
+  url: index.html
 
 - title: Support
-  url: /support/
+  url: support.html
 
 #- title: FAQ
 #  url: /faq/
 
 - title: Test Flight
-  url: /flight/
+  url: flight.html
